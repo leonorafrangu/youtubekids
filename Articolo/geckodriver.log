@@ -1,0 +1,556 @@
+1680704888086	geckodriver	INFO	Listening on 127.0.0.1:61313
+1680704888563	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileDUmmpP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680704889442	Marionette	INFO	Marionette enabled
+1680704889705	Marionette	INFO	Listening on port 61321
+Read port: 61321
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61314
+1680704889946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileDUmmpP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61314/devtools/browser/fcbb8484-5f89-4497-88b9-48d76f1ca6de
+1680704897227	geckodriver	INFO	Listening on 127.0.0.1:61347
+1680704897738	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileQI0Hco"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680704898207	Marionette	INFO	Marionette enabled
+1680704898395	Marionette	INFO	Listening on port 61355
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61348
+Read port: 61355
+1680704898592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileQI0Hco/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61348/devtools/browser/e03b5fb3-2106-4b5e-ae95-f8cd57732f11
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/offline.js, line 79: SecurityError: The operation is insecure.
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/offline.js, line 79: SecurityError: The operation is insecure.
+1680704994787	geckodriver	INFO	Listening on 127.0.0.1:61425
+1680704995310	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile0Qwgnv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680704995946	Marionette	INFO	Marionette enabled
+1680704996170	Marionette	INFO	Listening on port 61433
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 61433
+WebDriver BiDi listening on ws://127.0.0.1:61426
+1680704996421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile0Qwgnv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61426/devtools/browser/061c4abc-4d11-4bf6-a782-987279ced910
+1680705012524	geckodriver	INFO	Listening on 127.0.0.1:61458
+1680705013043	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile1TulfC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680705013494	Marionette	INFO	Marionette enabled
+1680705013677	Marionette	INFO	Listening on port 61466
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61459
+Read port: 61466
+1680705013990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile1TulfC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61459/devtools/browser/603d5512-1970-4711-978b-a0eb1875573f
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/offline.js, line 79: SecurityError: The operation is insecure.
+JavaScript warning: https://www.google.com/js/th/2ordrZu4NrapatEoBxceaXJmOvBRJ7YLOguyZYZ11AQ.js line 2 > eval line 2048 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680705055808	Marionette	INFO	Stopped listening on port 61321
+1680705058472	Marionette	INFO	Stopped listening on port 61355
+1680705060964	Marionette	INFO	Stopped listening on port 61433
+1680705305316	Marionette	INFO	Stopped listening on port 61466
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1680710497989	geckodriver	INFO	Listening on 127.0.0.1:62569
+1680710498511	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofilerEhMbH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680710499296	Marionette	INFO	Marionette enabled
+1680710499553	Marionette	INFO	Listening on port 62580
+Read port: 62580
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62570
+1680710499789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofilerEhMbH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62570/devtools/browser/e1b543ac-7a08-482d-b536-dd2e6ac2e328
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[Child 82624, MediaDecoderStateMachine #1] WARNING: 13627d310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 1159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 82624, MediaDecoderStateMachine #1] WARNING: 1379a21a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 82624, MediaDecoderStateMachine #1] WARNING: 1379a21a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 1159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 3499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 82624, MediaDecoderStateMachine #1] WARNING: 119344d20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 1159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 82624, MediaDecoderStateMachine #1] WARNING: 11a85a760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1680710634343	geckodriver	INFO	Listening on 127.0.0.1:62660
+1680710634859	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofiletN9iTv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680710635526	Marionette	INFO	Marionette enabled
+1680710635742	Marionette	INFO	Listening on port 62670
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62670
+WebDriver BiDi listening on ws://127.0.0.1:62661
+1680710635938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 1159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofiletN9iTv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62661/devtools/browser/32f1bdce-3245-4f0c-820c-b79e6473f568
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+1680710810408	Marionette	INFO	Stopped listening on port 62670
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+1680710813600	Marionette	INFO	Stopped listening on port 62580
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=Jo9El3rF0z8&cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/base.js, line 7616: TypeError: can't access dead object
+1680710845731	geckodriver	INFO	Listening on 127.0.0.1:62767
+1680710846251	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile62WmNZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680710846807	Marionette	INFO	Marionette enabled
+1680710847012	Marionette	INFO	Listening on port 62777
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62777
+WebDriver BiDi listening on ws://127.0.0.1:62768
+1680710847165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile62WmNZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62768/devtools/browser/3cff0e40-3447-4229-8fe0-65faddcb4887
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+1680711236691	geckodriver	INFO	Listening on 127.0.0.1:62844
+1680711237209	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileoUUKap"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680711237662	Marionette	INFO	Marionette enabled
+1680711237860	Marionette	INFO	Listening on port 62854
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62845
+Read port: 62854
+1680711238067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileoUUKap/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62845/devtools/browser/ffd0485a-7497-498e-ade8-6e2d11c5c859
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+1680711284808	Marionette	INFO	Stopped listening on port 62777
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+1680711286806	Marionette	INFO	Stopped listening on port 62854
+JavaScript error: https://www.youtube.com/results?search_query=, line 12: TypeError: can't access dead object
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680711366741	geckodriver	INFO	Listening on 127.0.0.1:62919
+1680711367266	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile8jGW51"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680711367726	Marionette	INFO	Marionette enabled
+1680711367911	Marionette	INFO	Listening on port 62927
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62920
+Read port: 62927
+1680711368112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile8jGW51/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62920/devtools/browser/8d2a9b3f-7d4b-4cfc-a4fa-e0974252d3d9
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1680711468845	Marionette	INFO	Stopped listening on port 62927
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680711473949	geckodriver	INFO	Listening on 127.0.0.1:63004
+1680711474467	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileHysIbI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680711474913	Marionette	INFO	Marionette enabled
+1680711475094	Marionette	INFO	Listening on port 63012
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63005
+Read port: 63012
+1680711475360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileHysIbI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63005/devtools/browser/dcf298fe-5d32-403c-a988-0004b97cebbc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 5772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680711547576	geckodriver	INFO	Listening on 127.0.0.1:63078
+1680711548100	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileSbCXTV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680711548552	Marionette	INFO	Marionette enabled
+1680711548740	Marionette	INFO	Listening on port 63086
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63079
+Read port: 63086
+1680711548941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileSbCXTV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63079/devtools/browser/2c60dd69-970b-43de-b1ff-95738977b925
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+1680711747010	geckodriver	INFO	Listening on 127.0.0.1:63162
+1680711747533	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile5QsMl1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680711748307	Marionette	INFO	Marionette enabled
+1680711748666	Marionette	INFO	Listening on port 63173
+Read port: 63173
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63163
+1680711748901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile5QsMl1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63163/devtools/browser/a4d9c731-54e0-4333-8de8-25c3b93994ad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680711863161	Marionette	INFO	Stopped listening on port 63173
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval, line 5056: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22ggfddgkuhb%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22ggfddgkuhb%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22ggfddgkuhb%22, line 12: TypeError: can't access dead object
+1680711865369	Marionette	INFO	Stopped listening on port 63086
+JavaScript error: https://www.youtube.com/results?search_query=%22ggfddgkuhb%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22ggfddgkuhb%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22ggfddgkuhb%22, line 12: TypeError: can't access dead object
+1680711867877	Marionette	INFO	Stopped listening on port 63012
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=ggfddgkuhb, line 12: TypeError: can't access dead object
+console.error: (new Error("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1680711874315	geckodriver	INFO	Listening on 127.0.0.1:63253
+1680711874837	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileee0Jog"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680711875359	Marionette	INFO	Marionette enabled
+1680711875457	Marionette	INFO	Listening on port 63263
+Read port: 63263
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63254
+1680711875674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileee0Jog/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63254/devtools/browser/408ece8f-f921-467c-9af1-773d29cae2c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[Child 84616, MediaDecoderStateMachine #1] WARNING: 132c79480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 84616, MediaDecoderStateMachine #1] WARNING: 132c79e90 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 84616, MediaDecoderStateMachine #1] WARNING: 132c79e90 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1802 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 497 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 84616, MediaDecoderStateMachine #1] WARNING: 118f60a40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 84616, MediaDecoderStateMachine #1] WARNING: 132c79760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680712075135	Marionette	INFO	Stopped listening on port 63263
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/base.js, line 7616: TypeError: can't access dead object
+1680712202712	geckodriver	INFO	Listening on 127.0.0.1:63360
+1680712203232	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileR60mw3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680712203878	Marionette	INFO	Marionette enabled
+1680712204098	Marionette	INFO	Listening on port 63370
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63370
+WebDriver BiDi listening on ws://127.0.0.1:63361
+1680712204258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileR60mw3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63361/devtools/browser/a1362b5a-826e-4634-a4f9-0fdb5f13c93c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[Child 85003, MediaDecoderStateMachine #1] WARNING: 1463f8310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 6060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85003, MediaDecoderStateMachine #1] WARNING: 1465f48d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 85003, MediaDecoderStateMachine #1] WARNING: 1465f48d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 6060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85003, MediaDecoderStateMachine #1] WARNING: 1405db8d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 6060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85003, MediaDecoderStateMachine #1] WARNING: 131d89bb0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 6060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680712547896	Marionette	INFO	Stopped listening on port 63370
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/base.js, line 7616: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680712552406	geckodriver	INFO	Listening on 127.0.0.1:63471
+1680712552927	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofilekruf65"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680712553463	Marionette	INFO	Marionette enabled
+1680712553658	Marionette	INFO	Listening on port 63481
+Read port: 63481
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63472
+1680712553833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofilekruf65/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63472/devtools/browser/614b5582-b7f4-4521-83c3-866fa813e106
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[Child 85495, MediaDecoderStateMachine #1] WARNING: 137f9f030 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85495, MediaDecoderStateMachine #1] WARNING: 137af91a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 85495, MediaDecoderStateMachine #1] WARNING: 137af91a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 7606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85495, MediaDecoderStateMachine #1] WARNING: 137af9e90 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85495, MediaDecoderStateMachine #1] WARNING: 11b894a40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680712714551	Marionette	INFO	Stopped listening on port 63481
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/base.js, line 7616: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680712744772	geckodriver	INFO	Listening on 127.0.0.1:63597
+1680712745295	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile9x9cqX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680712745750	Marionette	INFO	Marionette enabled
+1680712745934	Marionette	INFO	Listening on port 63605
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63598
+Read port: 63605
+1680712746134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofile9x9cqX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63598/devtools/browser/b2137ebe-517a-4211-8c64-da137f511967
+1680712840439	geckodriver	INFO	Listening on 127.0.0.1:63674
+1680712840961	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileY64YsD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680712841414	Marionette	INFO	Marionette enabled
+1680712841601	Marionette	INFO	Listening on port 63682
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63675
+Read port: 63682
+1680712841799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileY64YsD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63675/devtools/browser/c84c00dd-83dc-4173-9903-aa5a30a71cfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[Child 85913, MediaDecoderStateMachine #1] WARNING: 1556d0030 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 7749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 85913, MediaDecoderStateMachine #1] WARNING: 1569c91a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 7749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/base.js, line 7616: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680712958501	Marionette	INFO	Stopped listening on port 63682
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/7da8dd3e/player_ias.vflset/it_IT/base.js, line 7616: TypeError: can't access dead object
+[Child 85913, MediaDecoderStateMachine #1] WARNING: 13399d030 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+1680712960958	Marionette	INFO	Stopped listening on port 63605
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 13: TypeError: can't access dead object
+1680762832693	geckodriver	INFO	Listening on 127.0.0.1:64722
+1680762833217	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofilegqoZWl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680762834066	Marionette	INFO	Marionette enabled
+1680762834337	Marionette	INFO	Listening on port 64732
+Read port: 64732
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64723
+1680762834579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofilegqoZWl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64723/devtools/browser/fcc7d701-b671-4d61-aa0c-d1596ad93643
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[Child 86922, MediaDecoderStateMachine #1] WARNING: 1186b78d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 3988 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 86922, MediaDecoderStateMachine #1] WARNING: 11864fa40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 86922, MediaDecoderStateMachine #1] WARNING: 11864fa40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 3988 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680763049686	Marionette	INFO	Stopped listening on port 64732
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680763067535	geckodriver	INFO	Listening on 127.0.0.1:64799
+1680763068058	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileJaqBXn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680763068557	Marionette	INFO	Marionette enabled
+1680763068744	Marionette	INFO	Listening on port 64808
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64808
+WebDriver BiDi listening on ws://127.0.0.1:64800
+1680763068868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/m2/87dk244d2pq5_7g7wv21j3rw0000gn/T/rust_mozprofileJaqBXn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64800/devtools/browser/66128de5-7637-4710-8a8e-e89dfd64058e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+[Child 87274, MediaDecoderStateMachine #1] WARNING: 12fddc1a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/WvVrk5sia8wEN_-gw_byMcrKRdZqNX22ILWWYpHu7qg.js line 2 > eval line 4499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+1680763160511	Marionette	INFO	Stopped listening on port 64808
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=%22all+about+toys+store%22, line 12: TypeError: can't access dead object
